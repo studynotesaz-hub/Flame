@@ -16,8 +16,7 @@
     "lenis": "^1.0.29",
     "three": "^0.158.0",
     "@react-three/fiber": "^8.15.11",
-    "@react-three/drei": "^9.88.16",
-    "@google/genai": "^0.1.1"
+    "@react-three/drei": "^9.88.16"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",

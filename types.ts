@@ -25,6 +25,5 @@ export enum SectionId {
   HERO = 'hero',
   WORK = 'work',
   STUDIO = 'studio',
-  AI = 'ai-lab',
   CONTACT = 'contact'
 }
