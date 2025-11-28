@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# FLAME | Sonic Architect Portfolio
 
-# Run and deploy your AI Studio app
+> The official interactive portfolio for FLAME, an industry-leading music producer and sound designer.
 
-This contains everything you need to run your app locally.
+## 🎵 Overview
 
-View your app in AI Studio: https://ai.studio/apps/drive/1gO1TmyqlGIUmH2Droi9YMTR8cgmkpQli
+This is a high-performance, immersive 3D web experience built to showcase the discography and sonic capabilities of FLAME. It features liquid metal aesthetics, heavy cinematic interactions, and a procedural audio engine.
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- **Liquid Obsidian Core:** A custom WebGL shader background (R3F).
+- **Procedural Audio Engine:** Real-time synthesized UI sounds (thocks, ticks, swells) without external assets.
+- **Cinematic Archives:** A hidden, secure database overlay for discography.
+- **Lenis Smooth Scroll:** heavily damped, luxury scroll physics.
+- **Mobile Optimized:** Full touch support with custom gesture navigation.
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- **Framework:** React 18 + TypeScript
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS
+- **Animation:** Framer Motion + GSAP (Lenis)
+- **3D:** React Three Fiber (Three.js)
+
+## 🚀 Deployment
+
+This project is optimized for deployment on Vercel.
+
+1. Clone the repository.
+2. Install dependencies: `npm install`
+3. Run local development: `npm run dev`
+4. Build for production: `npm run build`
+
+---
+
+© 2024 FLAME AUDIO. All Rights Reserved.
